@@ -7,6 +7,6 @@ For a sample configuration and more information on the underlying module, see th
 The MySQL connector uses database properties from MySQL version 8.0.13 onwards. Therefore, it is
 recommended to use a MySQL driver version greater than 8.0.13.<br><br>
 
-::: code ./examples/mysql-complex-type-queries/mysql_complex_type_queries.bal :::
+::: code mysql_complex_type_queries.bal :::
 
-::: out ./examples/mysql-complex-type-queries/mysql_complex_type_queries.out :::
+::: out mysql_complex_type_queries.out :::

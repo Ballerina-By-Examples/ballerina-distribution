@@ -6,6 +6,6 @@ broker should be present.<br/><br/>
 For more information on the underlying module, 
 see the [`kafka` module](https://lib.ballerina.io/ballerinax/kafka/latest).
 
-::: code ./examples/kafka-producer/kafka_producer.bal :::
+::: code kafka_producer.bal :::
 
-::: out ./examples/kafka-producer/kafka_producer.out :::
+::: out kafka_producer.out :::

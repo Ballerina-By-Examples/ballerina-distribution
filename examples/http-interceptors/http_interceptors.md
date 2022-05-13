@@ -10,8 +10,8 @@ have a remote method, which will be executed before dispatching the response to 
 A collection of these interceptors can be configured as a pipeline at the listener level or service level.
 For more information, see the [`http` module](https://docs.central.ballerina.io/ballerina/http/latest/).
 
-::: code ./examples/http-interceptors/http_interceptors.bal :::
+::: code http_interceptors.bal :::
 
-::: out ./examples/http-interceptors/http_interceptors.client.out :::
+::: out http_interceptors.client.out :::
 
-::: out ./examples/http-interceptors/http_interceptors.server.out :::
+::: out http_interceptors.server.out :::

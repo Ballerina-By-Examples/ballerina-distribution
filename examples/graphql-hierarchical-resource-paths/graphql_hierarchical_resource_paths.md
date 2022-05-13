@@ -9,8 +9,8 @@ For more information on the underlying package, see the
 This example shows a GraphQL endpoint, which has a `profile` field of type `Person`.
 A GraphQL client can query this service to retrieve specific fields or subfields of the `Person` object.
 
-::: code ./examples/graphql-hierarchical-resource-paths/graphql_hierarchical_resource_paths.bal :::
+::: code graphql_hierarchical_resource_paths.bal :::
 
-::: out ./examples/graphql-hierarchical-resource-paths/graphql_hierarchical_resource_paths.client.out :::
+::: out graphql_hierarchical_resource_paths.client.out :::
 
-::: out ./examples/graphql-hierarchical-resource-paths/graphql_hierarchical_resource_paths.server.out :::
+::: out graphql_hierarchical_resource_paths.server.out :::

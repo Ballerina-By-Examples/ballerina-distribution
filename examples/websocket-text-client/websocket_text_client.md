@@ -4,6 +4,6 @@ The WebSocket client can be used to connect to and interact with a WebSocket ser
 For more information on the underlying module,
 see the [WebSocket module](https://lib.ballerina.io/ballerina/websocket/latest/).
 
-::: code ./examples/websocket-text-client/websocket_text_client.bal :::
+::: code websocket_text_client.bal :::
 
-::: out ./examples/websocket-text-client/websocket_text_client.out :::
+::: out websocket_text_client.out :::

@@ -10,8 +10,8 @@ The context can be accessed by defining it as the first parameter of any resolve
 For more information on the underlying package, see the
 [`graphql` package](https://docs.central.ballerina.io/ballerina/graphql/latest/).
 
-::: code ./examples/graphql-context/graphql_context.bal :::
+::: code graphql_context.bal :::
 
-::: out ./examples/graphql-context/graphql_context.client.out :::
+::: out graphql_context.client.out :::
 
-::: out ./examples/graphql-context/graphql_context.server.out :::
+::: out graphql_context.server.out :::

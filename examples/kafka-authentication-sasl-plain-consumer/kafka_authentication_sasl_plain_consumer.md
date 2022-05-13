@@ -7,6 +7,6 @@ and it should be configured to use the SASL/PLAIN authentication mechanism.
 For more information on the underlying module,
 see the [`kafka` module](https://lib.ballerina.io/ballerinax/kafka/latest).
 
-::: code ./examples/kafka-authentication-sasl-plain-consumer/kafka_authentication_sasl_plain_consumer.bal :::
+::: code kafka_authentication_sasl_plain_consumer.bal :::
 
-::: out ./examples/kafka-authentication-sasl-plain-consumer/kafka_authentication_sasl_plain_consumer.out :::
+::: out kafka_authentication_sasl_plain_consumer.out :::

@@ -6,8 +6,8 @@ are supported as parameter types. Binding failures will be responded with 400[Ba
 For more information on the underlying module, 
 see the [HTTP module](https://docs.central.ballerina.io/ballerina/http/latest/).
 
-::: code ./examples/http-data-binding/http_data_binding.bal :::
+::: code http_data_binding.bal :::
 
-::: out ./examples/http-data-binding/http_data_binding.client.out :::
+::: out http_data_binding.client.out :::
 
-::: out ./examples/http-data-binding/http_data_binding.server.out :::
+::: out http_data_binding.server.out :::

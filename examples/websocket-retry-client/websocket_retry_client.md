@@ -5,6 +5,6 @@ reconnect to the given backend. If the maximum reconnect attempt is reached it g
 For more information on the underlying module,
 see the [WebSocket module](https://lib.ballerina.io/ballerina/websocket/latest/).
 
-::: code ./examples/websocket-retry-client/websocket_retry_client.bal :::
+::: code websocket_retry_client.bal :::
 
-::: out ./examples/websocket-retry-client/websocket_retry_client.out :::
+::: out websocket_retry_client.out :::

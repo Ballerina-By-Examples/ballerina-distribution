@@ -9,8 +9,8 @@ anywhere in the interceptor pipeline. When there is an error, the execution jump
 to the closest error interceptor.
 For more information, see the [`http` module](https://docs.central.ballerina.io/ballerina/http/latest/).
 
-::: code ./examples/http-error-handling/http_error_handling.bal :::
+::: code http_error_handling.bal :::
 
-::: out ./examples/http-error-handling/http_error_handling.client.out :::
+::: out http_error_handling.client.out :::
 
-::: out ./examples/http-error-handling/http_error_handling.server.out :::
+::: out http_error_handling.server.out :::

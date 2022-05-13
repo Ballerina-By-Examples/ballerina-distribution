@@ -10,6 +10,6 @@ this to work properly, an active Kafka broker should be present.
 For more information on the underlying module, 
 see the [`kafka` module](https://lib.ballerina.io/ballerinax/kafka/latest).
 
-::: code ./examples/kafka-consumer-client/kafka_consumer_client.bal :::
+::: code kafka_consumer_client.bal :::
 
-::: out ./examples/kafka-consumer-client/kafka_consumer_client.out :::
+::: out kafka_consumer_client.out :::
