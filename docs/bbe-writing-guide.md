@@ -62,4 +62,4 @@ Below is the directory structure of examples directory in a `tree format`.
 
 The `markdownConverter.js` script located at `./.github/scripts/bbe` is used to generate the HTML BBE pages using the markdown files.
 
-For more details about the markdown converter script, check out this [document](../../.github/scripts/bbe/README.md).
+For more details about the markdown converter script, check out this [document](https://github.com/Ballerina-By-Examples/ballerina-dev-website/blob/bbe-generation-v2/.github/scripts/bbe/README.md).
