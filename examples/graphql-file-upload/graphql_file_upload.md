@@ -8,7 +8,7 @@ multipart request, which will be received by the GraphQL endpoints. This example
 can be used to upload files.
 <br/><br/>
 For more information on the underlying package, see the
-[`graphql` package](https://docs.central.ballerina.io/ballerina/graphql/latest/).
+[GraphQL package](https://docs.central.ballerina.io/ballerina/graphql/latest/).
 
 ::: code graphql_file_upload.bal :::
 
